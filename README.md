@@ -1,2 +1,2 @@
 # CuteCat-Facts
-JavaScript practicing thorough small projects 
+JavaScript practicing through small projects 
